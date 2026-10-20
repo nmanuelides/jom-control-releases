@@ -1,0 +1,9 @@
+{
+  "messages": [
+    {
+      "id": "v0.5",
+      "title": "Novedades en v0.5",
+      "body": "• Jom Control ahora se actualiza sola: cuando haya una versión nueva te la ofrece al abrir la app, y también puedes buscarla cuando quieras en Ajustes → Actualizaciones → Buscar actualizaciones.\n• Nuevo widget para la pantalla de inicio, configurable desde la pestaña Widget.\n• En la pestaña En el reloj puedes ordenar los dispositivos arrastrándolos.\n• Las novedades de cada versión aparecen aquí, una sola vez."
+    }
+  ]
+}
