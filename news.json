@@ -4,6 +4,11 @@
       "id": "v0.5",
       "title": "Novedades en v0.5",
       "body": "• Jom Control ahora se actualiza sola: cuando haya una versión nueva te la ofrece al abrir la app, y también puedes buscarla cuando quieras en Ajustes → Actualizaciones → Buscar actualizaciones.\n• Nuevo widget para la pantalla de inicio, configurable desde la pestaña Widget.\n• En la pestaña En el reloj puedes ordenar los dispositivos arrastrándolos.\n• Las novedades de cada versión aparecen aquí, una sola vez."
+    },
+    {
+      "id": "v0.6",
+      "title": "Novedades en v0.6",
+      "body": "• Ahora aparecen todos los dispositivos de Google Home que se pueden prender y apagar, no solo luces y enchufes: ventiladores, purificadores, aires acondicionados, TVs, parlantes, electrodomésticos y más.\n• Cada dispositivo muestra su tipo (Ventilador, TV, Audio…).\n• El reloj muestra hasta 4 dispositivos, los que elijas en la pestaña En el reloj (aparecen primero, en su orden).\n• En los relojes cuadrados como el GTS 4 ya no aparece la barra con la hora arriba (reinstala la app del reloj para verlo).\n• Los nombres de los dispositivos ya no se abrevian si entran: en el widget primero se achica la letra o se parte en dos líneas."
     }
   ]
 }
