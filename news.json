@@ -14,6 +14,11 @@
       "id": "v0.7",
       "title": "Novedades en v0.7",
       "body": "• En la pestaña Controlar ahora puedes ordenar los dispositivos: mantén apretados los 6 puntitos de la izquierda y arrastra. Ese orden es solo para esa lista; el del reloj se ordena aparte, en En el reloj."
+    },
+    {
+      "id": "v0.8",
+      "title": "Novedades en v0.8",
+      "body": "• El círculo de la pantalla principal ahora muestra una casa, y las chispas se animan: suben como brasas dentro del círculo. Cuantos más dispositivos estén prendidos, más chispas y más brillo."
     }
   ]
 }
