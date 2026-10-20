@@ -49,6 +49,11 @@
       "id": "v0.14",
       "title": "Novedades en v0.14",
       "body": "• Si Google Home no encuentra un dispositivo al recibir una orden (pasa con el celular bloqueado), la app lo vuelve a buscar por otros caminos antes de dar error."
+    },
+    {
+      "id": "v0.15",
+      "title": "Novedades en v0.15",
+      "body": "• Para que el reloj funcione con el celular bloqueado, Jom Control crea en tu Google Home dos automatizaciones por dispositivo del reloj y del widget («Jom Control · nombre · prender/apagar»). No las borres: se usan cuando Google no acepta órdenes directas con el teléfono bloqueado."
     }
   ]
 }
