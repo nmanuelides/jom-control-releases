@@ -29,6 +29,11 @@
       "id": "v0.10",
       "title": "Novedades en v0.10",
       "body": "• Botones físicos del reloj: con la app abierta, el botón de arriba (o el único) prende o apaga el primer dispositivo, y el de abajo el último. Reinstala la app del reloj para tenerlo.\n• La pestaña En el reloj lo explica y marca qué dispositivo responde a cada botón."
+    },
+    {
+      "id": "v0.11",
+      "title": "Novedades en v0.11",
+      "body": "• La notificación de Jom Control ahora es mínima: sin ícono en la barra de estado, sin sonido y con un texto fijo.\n• Si quieres ocultarla del todo: Ajustes → Notificación del puente, y desactívala. La app sigue funcionando con el reloj."
     }
   ]
 }
