@@ -24,6 +24,11 @@
       "id": "v0.9",
       "title": "Novedades en v0.9",
       "body": "• Nuevo ícono de Jom Control: la casa dentro del anillo naranja. Se adapta a la forma de íconos de tu launcher y, si usas íconos temáticos, muestra la casa en el color de tu tema."
+    },
+    {
+      "id": "v0.10",
+      "title": "Novedades en v0.10",
+      "body": "• Botones físicos del reloj: con la app abierta, el botón de arriba (o el único) prende o apaga el primer dispositivo, y el de abajo el último. Reinstala la app del reloj para tenerlo.\n• La pestaña En el reloj lo explica y marca qué dispositivo responde a cada botón."
     }
   ]
 }
