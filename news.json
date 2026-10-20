@@ -44,6 +44,11 @@
       "id": "v0.13",
       "title": "Novedades en v0.13",
       "body": "• Si Google Home rechaza una orden (por ejemplo con el celular bloqueado), la app la reintenta una vez y el reloj muestra un mensaje claro en vez de un número de error."
+    },
+    {
+      "id": "v0.14",
+      "title": "Novedades en v0.14",
+      "body": "• Si Google Home no encuentra un dispositivo al recibir una orden (pasa con el celular bloqueado), la app lo vuelve a buscar por otros caminos antes de dar error."
     }
   ]
 }
