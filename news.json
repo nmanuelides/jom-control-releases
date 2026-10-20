@@ -39,6 +39,11 @@
       "id": "v0.12",
       "title": "Novedades en v0.12",
       "body": "• Explicación más clara de los botones del reloj en la pestaña En el reloj."
+    },
+    {
+      "id": "v0.13",
+      "title": "Novedades en v0.13",
+      "body": "• Si Google Home rechaza una orden (por ejemplo con el celular bloqueado), la app la reintenta una vez y el reloj muestra un mensaje claro en vez de un número de error."
     }
   ]
 }
