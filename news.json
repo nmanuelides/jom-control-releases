@@ -19,6 +19,11 @@
       "id": "v0.8",
       "title": "Novedades en v0.8",
       "body": "• El círculo de la pantalla principal ahora muestra una casa, y las chispas se animan: suben como brasas dentro del círculo. Cuantos más dispositivos estén prendidos, más chispas y más brillo."
+    },
+    {
+      "id": "v0.9",
+      "title": "Novedades en v0.9",
+      "body": "• Nuevo ícono de Jom Control: la casa dentro del anillo naranja. Se adapta a la forma de íconos de tu launcher y, si usas íconos temáticos, muestra la casa en el color de tu tema."
     }
   ]
 }
