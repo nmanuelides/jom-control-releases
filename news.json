@@ -9,6 +9,11 @@
       "id": "v0.6",
       "title": "Novedades en v0.6",
       "body": "• Ahora aparecen todos los dispositivos de Google Home que se pueden prender y apagar, no solo luces y enchufes: ventiladores, purificadores, aires acondicionados, TVs, parlantes, electrodomésticos y más.\n• Cada dispositivo muestra su tipo (Ventilador, TV, Audio…).\n• El reloj muestra hasta 4 dispositivos, los que elijas en la pestaña En el reloj (aparecen primero, en su orden).\n• En los relojes cuadrados como el GTS 4 ya no aparece la barra con la hora arriba (reinstala la app del reloj para verlo).\n• Los nombres de los dispositivos ya no se abrevian si entran: en el widget primero se achica la letra o se parte en dos líneas."
+    },
+    {
+      "id": "v0.7",
+      "title": "Novedades en v0.7",
+      "body": "• En la pestaña Controlar ahora puedes ordenar los dispositivos: mantén apretados los 6 puntitos de la izquierda y arrastra. Ese orden es solo para esa lista; el del reloj se ordena aparte, en En el reloj."
     }
   ]
 }
