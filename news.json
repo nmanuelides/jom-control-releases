@@ -34,6 +34,11 @@
       "id": "v0.11",
       "title": "Novedades en v0.11",
       "body": "• La notificación de Jom Control ahora es mínima: sin ícono en la barra de estado, sin sonido y con un texto fijo.\n• Si quieres ocultarla del todo: Ajustes → Notificación del puente, y desactívala. La app sigue funcionando con el reloj."
+    },
+    {
+      "id": "v0.12",
+      "title": "Novedades en v0.12",
+      "body": "• Explicación más clara de los botones del reloj en la pestaña En el reloj."
     }
   ]
 }
