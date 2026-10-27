@@ -64,6 +64,11 @@
       "id": "v0.17",
       "title": "Novedades en v0.17",
       "body": "• El widget ya no vuelve al estado anterior cuando Google Home tarda en confirmar un cambio."
+    },
+    {
+      "id": "v0.18",
+      "title": "Novedades en v0.18",
+      "body": "• El widget ahora sí se actualiza cuando prendes o apagas algo desde Google Home, la voz o el reloj."
     }
   ]
 }
