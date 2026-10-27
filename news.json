@@ -59,6 +59,11 @@
       "id": "v0.16",
       "title": "Novedades en v0.16",
       "body": "• El widget se actualiza solo cuando un dispositivo cambia (desde Google Home, la voz o el reloj).\n• Al tocar un botón del widget se mira el estado real del dispositivo antes de prenderlo o apagarlo."
+    },
+    {
+      "id": "v0.17",
+      "title": "Novedades en v0.17",
+      "body": "• El widget ya no vuelve al estado anterior cuando Google Home tarda en confirmar un cambio."
     }
   ]
 }
