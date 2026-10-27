@@ -69,6 +69,11 @@
       "id": "v0.18",
       "title": "Novedades en v0.18",
       "body": "• El widget ahora sí se actualiza cuando prendes o apagas algo desde Google Home, la voz o el reloj."
+    },
+    {
+      "id": "v0.19",
+      "title": "Novedades en v0.19",
+      "body": "• Nuevo: con el celular bloqueado, el reloj y el widget mandan la orden por Google Assistant. Actívalo en Ajustes → Celular bloqueado.\n• Se borran las rutinas «Jom Control · …» que había creado en Google Home (no servían con el celular bloqueado)."
     }
   ]
 }
