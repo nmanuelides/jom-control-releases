@@ -54,6 +54,11 @@
       "id": "v0.15",
       "title": "Novedades en v0.15",
       "body": "• Para que el reloj funcione con el celular bloqueado, Jom Control crea en tu Google Home dos automatizaciones por dispositivo del reloj y del widget («Jom Control · nombre · prender/apagar»). No las borres: se usan cuando Google no acepta órdenes directas con el teléfono bloqueado."
+    },
+    {
+      "id": "v0.16",
+      "title": "Novedades en v0.16",
+      "body": "• El widget se actualiza solo cuando un dispositivo cambia (desde Google Home, la voz o el reloj).\n• Al tocar un botón del widget se mira el estado real del dispositivo antes de prenderlo o apagarlo."
     }
   ]
 }
