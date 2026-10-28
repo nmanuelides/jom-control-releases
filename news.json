@@ -84,6 +84,11 @@
       "id": "v0.21",
       "title": "Novedades en v0.21",
       "body": "• Google Assistant ahora usa inglés (en-US) para mandar las órdenes."
+    },
+    {
+      "id": "v0.22",
+      "title": "Novedades en v0.22",
+      "body": "• Si Google Assistant no puede cumplir una orden del reloj, ahora el reloj muestra el error en vez de marcarla como hecha.\n• Ajustes → Actividad muestra qué respondió Assistant.\n• El widget relee el estado real cada vez que desbloqueas el celular."
     }
   ]
 }
