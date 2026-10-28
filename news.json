@@ -79,6 +79,11 @@
       "id": "v0.20",
       "title": "Novedades en v0.20",
       "body": "• Google Assistant: se corrigió el error «unsupported language_code»."
+    },
+    {
+      "id": "v0.21",
+      "title": "Novedades en v0.21",
+      "body": "• Google Assistant ahora usa inglés (en-US) para mandar las órdenes."
     }
   ]
 }
