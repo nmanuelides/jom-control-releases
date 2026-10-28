@@ -74,6 +74,11 @@
       "id": "v0.19",
       "title": "Novedades en v0.19",
       "body": "• Nuevo: con el celular bloqueado, el reloj y el widget mandan la orden por Google Assistant. Actívalo en Ajustes → Celular bloqueado.\n• Se borran las rutinas «Jom Control · …» que había creado en Google Home (no servían con el celular bloqueado)."
+    },
+    {
+      "id": "v0.20",
+      "title": "Novedades en v0.20",
+      "body": "• Google Assistant: se corrigió el error «unsupported language_code»."
     }
   ]
 }
