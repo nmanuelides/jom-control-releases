@@ -89,6 +89,11 @@
       "id": "v0.22",
       "title": "Novedades en v0.22",
       "body": "• Si Google Assistant no puede cumplir una orden del reloj, ahora el reloj muestra el error en vez de marcarla como hecha.\n• Ajustes → Actividad muestra qué respondió Assistant.\n• El widget relee el estado real cada vez que desbloqueas el celular."
+    },
+    {
+      "id": "v0.23",
+      "title": "Novedades en v0.23",
+      "body": "• Nuevo: Ajustes → Dispositivos. Ves todos los dispositivos de Google Home y eliges cuáles usar en Jom Control (app, reloj y widget).\n• El botón ⟳ vuelve a buscar en Google Home; los dispositivos nuevos aparecen marcados como «Nuevo».\n• Si un dispositivo nuevo no aparece, toca «¿Falta alguno?» para permitirlo en Google Home."
     }
   ]
 }
